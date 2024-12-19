@@ -1,0 +1,96 @@
+/* General styling for the body and container */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Specific styling for the media budget input box */
+#budget {
+    width: 150px;  /* Adjust the width here */
+    padding: 8px;   /* Adjust the padding here */
+    font-size: 14px; /* Optionally reduce font size */
+}
+
+/* Specific styling for the industry dropdown */
+#industry {
+    width: 200px;  /* Adjust the width here */
+    padding: 8px;  /* Adjust the padding here */
+    font-size: 14px;  /* Keep font size readable */
+}
+
+/* Styling for the channel selection and other inputs */
+#channel-selection {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.channel {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.channel label {
+    margin-right: 10px;
+}
+
+.channel input {
+    width: 60px;
+    margin-right: 10px;
+}
+
+.channel span {
+    font-weight: bold;
+    color: #007bff;
+}
+
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+table th {
+    background-color: #f4f4f4;
+}

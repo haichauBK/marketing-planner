@@ -1,0 +1,50 @@
+﻿Industry,Channel,CTR,CPC,ConvRate
+Advocacy,Search,1.96,1.43,1.96
+Advocacy,GDN,1.00,0.62,1.00
+Auto,Search,6.03,2.46,6.03
+Auto,GDN,1.19,0.58,1.19
+Auto,Facebook,5.11,2.24,5.11
+B2B,Search,3.04,3.33,3.04
+B2B,GDN,0.80,0.79,0.80
+B2B,Facebook,10.63,2.52,10.63
+Consumer Services,Search,6.64,6.40,6.64
+Consumer Services,GDN,0.98,0.81,0.98
+Consumer Services,Facebook,9.96,3.08,9.96
+Dating & Personals,Search,9.64,2.78,9.64
+Dating & Personals,GDN,3.34,1.49,3.34
+E-Commerce,Search,2.81,1.16,2.81
+E-Commerce,GDN,0.59,0.45,0.59
+Education,Search,3.39,2.40,3.39
+Education,GDN,0.50,0.47,0.50
+Education,Facebook,13.58,1.06,13.58
+Employment Services,Search,5.13,2.04,5.13
+Employment Services,GDN,1.57,0.78,1.57
+Employment Services,Facebook,11.73,2.72,11.73
+Finance & Insurance,Search,5.10,3.44,5.10
+Finance & Insurance,GDN,1.19,0.86,1.19
+Finance & Insurance,Facebook,9.09,3.77,9.09
+Health & Medical,Search,3.36,2.62,3.36
+Health & Medical,GDN,0.82,0.63,0.82
+Healthcare,Facebook,11.00,1.32,11.00
+Home Goods,Search,2.70,2.94,2.70
+Home Goods,GDN,0.43,0.60,0.43
+Home Improvement,Facebook,6.56,2.93,6.56
+Industrial Services,Search,3.37,2.56,3.37
+Industrial Services,GDN,0.94,0.54,0.94
+Industrial Services,Facebook,0.71,2.14,0.71
+Legal,Search,6.98,6.75,6.98
+Legal,GDN,1.84,0.72,1.84
+Legal,Facebook,5.60,1.32,5.60
+Real Estate,Search,2.47,2.37,2.47
+Real Estate,GDN,0.80,0.75,0.80
+Real Estate,Facebook,10.68,1.81,10.68
+Retail,Facebook,3.26,0.70,3.26
+Technology,Search,2.92,3.80,2.92
+Technology,GDN,0.86,0.51,0.86
+Technology,Facebook,2.31,1.27,2.31
+Travel & Hospitality,Search,3.55,1.53,3.55
+Travel & Hospitality,GDN,0.51,0.44,0.51
+Travel & Hospitality,Facebook,2.82,0.63,2.82
+Apparel,Facebook,4.11,0.45,4.11
+Beauty,Facebook,7.10,1.81,7.10
+Fitness,Facebook,14.29,1.90,14.29
